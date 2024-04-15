@@ -1,0 +1,19 @@
+.search-container{
+    margin-bottom: 10px;
+}
+
+input {
+    width: 70%;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+  }
+  .btn{
+    width: 25%;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: rgb(20, 18, 93);
+    color: white;
+
+  }
